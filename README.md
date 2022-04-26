@@ -1,5 +1,5 @@
-# Jasmine Palaganas  
-# April 26, 2022  
+Jasmine Palaganas  
+April 26, 2022  
 # Lab 2: Creating visualizations using geo-tagged tweet collection through the Twitter API.
 
 ## Introduction
