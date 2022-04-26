@@ -19,8 +19,10 @@ This map has significantly less data points than the map depicting tweets in the
 
 ## Word Cloud Depicting US Tweets
 ![](img/WordArt-1.png)
+
 At first glance, we might wonder why such an odd character is the most popularly used word in this collection of tweets. Upon research, I found out that "Ðÿ" represents an emoji that cannot be represented in basic text on a .csv file. Emojis are commonly used on social media apps so I can understand why such odd characters appear so often on this word cloud. 
 
 ## Word Cloud Depicting "Elon Musk" Related Tweets
 ![](img/Word%20Art-2.png)
+
 This word cloud is much easier to decipher because we are exploring a specific term. However, we can still see odd characters representing potential emojis being used within the tweet. Terms like "money", "rich", and "business man" are phrases that we can associate with Elon Musk so I am not surprised they appear fairly large on this word cloud. 
