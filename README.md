@@ -1,5 +1,5 @@
-# Jasmine Palaganas
-# April 26, 2022
+# Jasmine Palaganas  
+# April 26, 2022  
 # Lab 2: Creating visualizations using geo-tagged tweet collection through the Twitter API.
 
 ## Introduction
@@ -15,6 +15,7 @@ This map has many more data points due to the time it was created (earlier in th
 
 ## Map of Tweets Where "Elon Musk" is Mentioned
 ![Map of "Elon Musk" Mentions](img/tweetmapELON.png)
+
 This map has significantly less data points than the map depicting tweets in the U.S. Since the data was gathered at (what I suspect is an) unpopular time of the day, it produced much less results. I would predict that a search with these same parameters ocurring during the middle of the day would find many more search results. However, with this map we can gain an understanding of the production of tweets from accross the world and where Twitter may be popularly used during this time of day. 
 
 ## Word Cloud Depicting US Tweets
